@@ -1,0 +1,10 @@
+Package: net.sarahh12099.gympassjbbypass
+Name: Gympass JB Bypass
+Version: 1.0.1.0
+Architecture: iphoneos-arm
+Description: Bypass Jailbreak Detection In Gympass
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Replaces: net.sarahh12099.gympassjbbypass

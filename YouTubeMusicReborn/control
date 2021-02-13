@@ -1,0 +1,11 @@
+Package: net.sarahh12099.youtubemusicreborn
+Name: YouTube Music Reborn
+Version: 2.0.0.2
+Architecture: iphoneos-arm
+Description: YouTube Music Customizer
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Conflicts: com.justinpetkovic.ytmt, com.icraze.youtubemusicbackgroundplayback
+Replaces: net.sarahh12099.youtubemusicreborn

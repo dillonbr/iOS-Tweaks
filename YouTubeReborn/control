@@ -1,0 +1,11 @@
+Package: net.sarahh12099.youtubereborn
+Name: YouTube Reborn
+Version: 2.0.0.3
+Architecture: iphoneos-arm
+Description: YouTube Customizer
+Maintainer: SarahH12099
+Author: SarahH12099
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip, prasa.youtubeplus, com.unlimapps.ytpp, me.alfhaily.cercube
+Replaces: net.sarahh12099.youtubereborn
